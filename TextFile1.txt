@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 05
+First Student Details.: 208508259 - Liad Mor
+Second Student Details: 315440841 - Gil Dagan
+Delivery Date.........: 27 - June - 2021
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2019
+Comments..............: 
+=======================End Exercise Checking Report=========================
